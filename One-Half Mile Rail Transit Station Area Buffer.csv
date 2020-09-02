@@ -1,0 +1,14 @@
+﻿OBJECTID_1,Id,Station,BUFF_DIST,ORIG_FID,STA_NAME,AGENCY,LINE,WebURL,Weight,Acres,Designated,TOD_ID
+37,0,CENTRE STREET,0,0, ,MTA,LIGHT RAIL,http://mta.maryland.gov/light-rail-stationparking-info,1,502.57214525, ,86
+38,0,UNIVERSITY CENTER - BALTIMORE STREET,0,0, ,MTA,LIGHT RAIL,http://mta.maryland.gov/light-rail-stationparking-info,1,500.88177276, ,140
+39,0,CONVENTION CENTER,0,0, ,MTA,LIGHT RAIL,http://mta.maryland.gov/light-rail-stationparking-info,1,490.97904605, ,90
+40,0,CAMDEN YARDS/CAMDEN STATION,0,0, ,MTA/MARC,LRT/CAMDEN,http://mta.maryland.gov/light-rail-stationparking-info,1,490.91942696, ,84
+41,0,HAMBURG STREET,0,0, ,MTA,LIGHT RAIL,http://mta.maryland.gov/light-rail-stationparking-info,1,486.92951705, ,64
+42,0,WESTPORT,0,0, ,MTA,LIGHT RAIL,http://mta.maryland.gov/light-rail-stationparking-info,1,434.24613288,YES,3
+62,0,CHARLES CENTER,0,0, ,MTA,SUBWAY,http://mta.maryland.gov/metro-station-access-information,1,482.59601317, ,74
+63,0,SHOT TOWER/MARKET PLACE,0,0, ,MTA,SUBWAY,http://mta.maryland.gov/metro-station-access-information,1,473.39917611, ,134
+64,0,JOHNS HOPKINS HOSPITAL,0,0, ,MTA,SUBWAY,http://mta.maryland.gov/metro-station-access-information,1,502.57214525, ,65
+69,0,WEST BALTIMORE,0,0, ,MARC,PENN,http://mta.maryland.gov/marc-train,1,502.57214525, ,10
+126,0,LEXINGTON MARKET - SOUTHBOUND LTR,0,0, ,MTA,LIGHT RAIL,http://mta.maryland.gov/light-rail-stationparking-info,1,502.57214525, ,111
+127,0,LEXINGTON MARKET - NORTHBOUND LTR,0,0, ,MTA,LIGHT RAIL,http://mta.maryland.gov/light-rail-stationparking-info,1,502.57214525, ,110
+129,0,LEXINGTON MARKET METRO,0,0, ,MTA,SUBWAY,http://mta.maryland.gov/metro-station-access-information,1,502.57214525, ,112
