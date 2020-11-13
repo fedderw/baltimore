@@ -1,0 +1,521 @@
+GISJOIN,YEAR,REGIONA,DIVISIONA,STATE,STATEA,COUNTY,COUNTYA,COUSUBA,PLACEA,TRACTA,BLKGRPA,CONCITA,AIANHHA,RES_ONLYA,TRUSTA,AITSCEA,ANRCA,CBSAA,CSAA,METDIVA,NECTAA,CNECTAA,NECTADIVA,UAA,CDCURRA,SLDUA,SLDLA,ZCTA5A,SUBMCDA,SDELMA,SDSECA,SDUNIA,PUMA5A,NAME,BTTRA,BTBGA,AJZAE001,AJ1TE001,AJ1TE002,AJ1TE003
+GIS Join Match Code,Data File Year,Region Code,Division Code,State Name,State Code,County Name,County Code,County Subdivision Code,Place Code,Census Tract Code,Block Group Code,Consolidated City Code,American Indian Area/Alaska Native Area/Hawaiian Home Land Code,American Indian Area/Alaska Native Area (Reservation or Statistical Entity Only) Code,American Indian Area (Off-Reservation Trust Land Only)/Hawaiian Home Land Code,Tribal Subdivision/Remainder Code,Alaska Native Regional Corporation Code,Metropolitan Statistical Area/Micropolitan Statistical Area Code,Combined Statistical Area Code,Metropolitan Division Code,New England City and Town Area Code,Combined New England City and Town Area Code,New England City and Town Area Division Code,Urban Area Code,"Congressional District (2019-2021, 116th Congress) Code",State Legislative District (Upper Chamber) Code,State Legislative District (Lower Chamber) Code,5-Digit ZIP Code Tabulation Area Code,Subminor Civil Division Code,School District (Elementary)/Remainder Code,School District (Secondary)/Remainder Code,School District (Unified)/Remainder Code,Public Use Microdata Sample Area (PUMA) Code,Area Name,Tribal Census Tract Code,Tribal Block Group Code,Median household income in the past 12 months (in 2018 inflation-adjusted dollars),Total,Occupied,Vacant
+G2400030701101,2014-2018,,,Maryland,24,Anne Arundel County,3,,,701101,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7011.01, Anne Arundel County, Maryland",,,120955,1626,1484,142
+G2400030701102,2014-2018,,,Maryland,24,Anne Arundel County,3,,,701102,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7011.02, Anne Arundel County, Maryland",,,86358,3239,3191,48
+G2400030701200,2014-2018,,,Maryland,24,Anne Arundel County,3,,,701200,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7012, Anne Arundel County, Maryland",,,121657,3435,3065,370
+G2400030701300,2014-2018,,,Maryland,24,Anne Arundel County,3,,,701300,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7013, Anne Arundel County, Maryland",,,137645,2856,2744,112
+G2400030701400,2014-2018,,,Maryland,24,Anne Arundel County,3,,,701400,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7014, Anne Arundel County, Maryland",,,116435,1345,1239,106
+G2400030702100,2014-2018,,,Maryland,24,Anne Arundel County,3,,,702100,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7021, Anne Arundel County, Maryland",,,119414,2880,2637,243
+G2400030702204,2014-2018,,,Maryland,24,Anne Arundel County,3,,,702204,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7022.04, Anne Arundel County, Maryland",,,141797,1545,1518,27
+G2400030702205,2014-2018,,,Maryland,24,Anne Arundel County,3,,,702205,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7022.05, Anne Arundel County, Maryland",,,112442,2382,2277,105
+G2400030702206,2014-2018,,,Maryland,24,Anne Arundel County,3,,,702206,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7022.06, Anne Arundel County, Maryland",,,110372,2449,2381,68
+G2400030702208,2014-2018,,,Maryland,24,Anne Arundel County,3,,,702208,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7022.08, Anne Arundel County, Maryland",,,113339,2846,2699,147
+G2400030702209,2014-2018,,,Maryland,24,Anne Arundel County,3,,,702209,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7022.09, Anne Arundel County, Maryland",,,150735,1476,1454,22
+G2400030702300,2014-2018,,,Maryland,24,Anne Arundel County,3,,,702300,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7023, Anne Arundel County, Maryland",,,134934,2059,1999,60
+G2400030702402,2014-2018,,,Maryland,24,Anne Arundel County,3,,,702402,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7024.02, Anne Arundel County, Maryland",,,105474,3665,3130,535
+G2400030702500,2014-2018,,,Maryland,24,Anne Arundel County,3,,,702500,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7025, Anne Arundel County, Maryland",,,97098,2309,2104,205
+G2400030702601,2014-2018,,,Maryland,24,Anne Arundel County,3,,,702601,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7026.01, Anne Arundel County, Maryland",,,103063,2266,2160,106
+G2400030702602,2014-2018,,,Maryland,24,Anne Arundel County,3,,,702602,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7026.02, Anne Arundel County, Maryland",,,145544,2723,2537,186
+G2400030702701,2014-2018,,,Maryland,24,Anne Arundel County,3,,,702701,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7027.01, Anne Arundel County, Maryland",,,102386,2465,2266,199
+G2400030702702,2014-2018,,,Maryland,24,Anne Arundel County,3,,,702702,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7027.02, Anne Arundel County, Maryland",,,159722,1670,1442,228
+G2400030706101,2014-2018,,,Maryland,24,Anne Arundel County,3,,,706101,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7061.01, Anne Arundel County, Maryland",,,82642,2052,1719,333
+G2400030706301,2014-2018,,,Maryland,24,Anne Arundel County,3,,,706301,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7063.01, Anne Arundel County, Maryland",,,73671,2598,2324,274
+G2400030706302,2014-2018,,,Maryland,24,Anne Arundel County,3,,,706302,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7063.02, Anne Arundel County, Maryland",,,87969,1966,1694,272
+G2400030706401,2014-2018,,,Maryland,24,Anne Arundel County,3,,,706401,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7064.01, Anne Arundel County, Maryland",,,69992,2361,2209,152
+G2400030706402,2014-2018,,,Maryland,24,Anne Arundel County,3,,,706402,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7064.02, Anne Arundel County, Maryland",,,78958,1664,1467,197
+G2400030706500,2014-2018,,,Maryland,24,Anne Arundel County,3,,,706500,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7065, Anne Arundel County, Maryland",,,94650,2558,2345,213
+G2400030706600,2014-2018,,,Maryland,24,Anne Arundel County,3,,,706600,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7066, Anne Arundel County, Maryland",,,117235,2054,1937,117
+G2400030706700,2014-2018,,,Maryland,24,Anne Arundel County,3,,,706700,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7067, Anne Arundel County, Maryland",,,96813,184,171,13
+G2400030707001,2014-2018,,,Maryland,24,Anne Arundel County,3,,,707001,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7070.01, Anne Arundel County, Maryland",,,97146,2625,2257,368
+G2400030707002,2014-2018,,,Maryland,24,Anne Arundel County,3,,,707002,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7070.02, Anne Arundel County, Maryland",,,96250,2033,1745,288
+G2400030708001,2014-2018,,,Maryland,24,Anne Arundel County,3,,,708001,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7080.01, Anne Arundel County, Maryland",,,108684,1667,1394,273
+G2400030708004,2014-2018,,,Maryland,24,Anne Arundel County,3,,,708004,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7080.04, Anne Arundel County, Maryland",,,74153,2220,2100,120
+G2400030730100,2014-2018,,,Maryland,24,Anne Arundel County,3,,,730100,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7301, Anne Arundel County, Maryland",,,101278,4589,4441,148
+G2400030730203,2014-2018,,,Maryland,24,Anne Arundel County,3,,,730203,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7302.03, Anne Arundel County, Maryland",,,48397,2802,2583,219
+G2400030730204,2014-2018,,,Maryland,24,Anne Arundel County,3,,,730204,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7302.04, Anne Arundel County, Maryland",,,67886,2030,1958,72
+G2400030730300,2014-2018,,,Maryland,24,Anne Arundel County,3,,,730300,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7303, Anne Arundel County, Maryland",,,87868,1227,1116,111
+G2400030730401,2014-2018,,,Maryland,24,Anne Arundel County,3,,,730401,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7304.01, Anne Arundel County, Maryland",,,77851,2001,1906,95
+G2400030730402,2014-2018,,,Maryland,24,Anne Arundel County,3,,,730402,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7304.02, Anne Arundel County, Maryland",,,63525,2656,2440,216
+G2400030730502,2014-2018,,,Maryland,24,Anne Arundel County,3,,,730502,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7305.02, Anne Arundel County, Maryland",,,76613,2530,2156,374
+G2400030730504,2014-2018,,,Maryland,24,Anne Arundel County,3,,,730504,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7305.04, Anne Arundel County, Maryland",,,94861,3116,2888,228
+G2400030730505,2014-2018,,,Maryland,24,Anne Arundel County,3,,,730505,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7305.05, Anne Arundel County, Maryland",,,52182,2262,2128,134
+G2400030730506,2014-2018,,,Maryland,24,Anne Arundel County,3,,,730506,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7305.06, Anne Arundel County, Maryland",,,48608,1973,1749,224
+G2400030730601,2014-2018,,,Maryland,24,Anne Arundel County,3,,,730601,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7306.01, Anne Arundel County, Maryland",,,178828,2381,2267,114
+G2400030730603,2014-2018,,,Maryland,24,Anne Arundel County,3,,,730603,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7306.03, Anne Arundel County, Maryland",,,133333,1072,1000,72
+G2400030730604,2014-2018,,,Maryland,24,Anne Arundel County,3,,,730604,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7306.04, Anne Arundel County, Maryland",,,149917,2557,2525,32
+G2400030730700,2014-2018,,,Maryland,24,Anne Arundel County,3,,,730700,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7307, Anne Arundel County, Maryland",,,127392,2713,2580,133
+G2400030730800,2014-2018,,,Maryland,24,Anne Arundel County,3,,,730800,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7308, Anne Arundel County, Maryland",,,176818,988,920,68
+G2400030730901,2014-2018,,,Maryland,24,Anne Arundel County,3,,,730901,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7309.01, Anne Arundel County, Maryland",,,144423,993,908,85
+G2400030730902,2014-2018,,,Maryland,24,Anne Arundel County,3,,,730902,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7309.02, Anne Arundel County, Maryland",,,170244,1541,1474,67
+G2400030731002,2014-2018,,,Maryland,24,Anne Arundel County,3,,,731002,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7310.02, Anne Arundel County, Maryland",,,103000,1339,1270,69
+G2400030731003,2014-2018,,,Maryland,24,Anne Arundel County,3,,,731003,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7310.03, Anne Arundel County, Maryland",,,93173,1636,1560,76
+G2400030731004,2014-2018,,,Maryland,24,Anne Arundel County,3,,,731004,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7310.04, Anne Arundel County, Maryland",,,115846,1745,1669,76
+G2400030731102,2014-2018,,,Maryland,24,Anne Arundel County,3,,,731102,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7311.02, Anne Arundel County, Maryland",,,117029,3119,2973,146
+G2400030731103,2014-2018,,,Maryland,24,Anne Arundel County,3,,,731103,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7311.03, Anne Arundel County, Maryland",,,123375,1994,1879,115
+G2400030731104,2014-2018,,,Maryland,24,Anne Arundel County,3,,,731104,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7311.04, Anne Arundel County, Maryland",,,114602,1509,1486,23
+G2400030731105,2014-2018,,,Maryland,24,Anne Arundel County,3,,,731105,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7311.05, Anne Arundel County, Maryland",,,113980,1356,1283,73
+G2400030731201,2014-2018,,,Maryland,24,Anne Arundel County,3,,,731201,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7312.01, Anne Arundel County, Maryland",,,129196,2430,2283,147
+G2400030731202,2014-2018,,,Maryland,24,Anne Arundel County,3,,,731202,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7312.02, Anne Arundel County, Maryland",,,114545,2910,2798,112
+G2400030731203,2014-2018,,,Maryland,24,Anne Arundel County,3,,,731203,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7312.03, Anne Arundel County, Maryland",,,135030,2608,2429,179
+G2400030731204,2014-2018,,,Maryland,24,Anne Arundel County,3,,,731204,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7312.04, Anne Arundel County, Maryland",,,91333,2827,2650,177
+G2400030731303,2014-2018,,,Maryland,24,Anne Arundel County,3,,,731303,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7313.03, Anne Arundel County, Maryland",,,113846,2773,2462,311
+G2400030731306,2014-2018,,,Maryland,24,Anne Arundel County,3,,,731306,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7313.06, Anne Arundel County, Maryland",,,106140,2454,2211,243
+G2400030731307,2014-2018,,,Maryland,24,Anne Arundel County,3,,,731307,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7313.07, Anne Arundel County, Maryland",,,91154,2493,2338,155
+G2400030731308,2014-2018,,,Maryland,24,Anne Arundel County,3,,,731308,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7313.08, Anne Arundel County, Maryland",,,87328,1515,1348,167
+G2400030731309,2014-2018,,,Maryland,24,Anne Arundel County,3,,,731309,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7313.09, Anne Arundel County, Maryland",,,85846,2145,1999,146
+G2400030731310,2014-2018,,,Maryland,24,Anne Arundel County,3,,,731310,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7313.10, Anne Arundel County, Maryland",,,86889,1870,1804,66
+G2400030731311,2014-2018,,,Maryland,24,Anne Arundel County,3,,,731311,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7313.11, Anne Arundel County, Maryland",,,92137,2785,2579,206
+G2400030740102,2014-2018,,,Maryland,24,Anne Arundel County,3,,,740102,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7401.02, Anne Arundel County, Maryland",,,105539,4316,4202,114
+G2400030740103,2014-2018,,,Maryland,24,Anne Arundel County,3,,,740103,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7401.03, Anne Arundel County, Maryland",,,119782,3205,3137,68
+G2400030740104,2014-2018,,,Maryland,24,Anne Arundel County,3,,,740104,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7401.04, Anne Arundel County, Maryland",,,106808,3210,3058,152
+G2400030740105,2014-2018,,,Maryland,24,Anne Arundel County,3,,,740105,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7401.05, Anne Arundel County, Maryland",,,57763,1453,1312,141
+G2400030740201,2014-2018,,,Maryland,24,Anne Arundel County,3,,,740201,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7402.01, Anne Arundel County, Maryland",,,76322,2898,2676,222
+G2400030740203,2014-2018,,,Maryland,24,Anne Arundel County,3,,,740203,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7402.03, Anne Arundel County, Maryland",,,131862,2108,2022,86
+G2400030740303,2014-2018,,,Maryland,24,Anne Arundel County,3,,,740303,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7403.03, Anne Arundel County, Maryland",,,107222,1657,1454,203
+G2400030740304,2014-2018,,,Maryland,24,Anne Arundel County,3,,,740304,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7403.04, Anne Arundel County, Maryland",,,96754,2810,2622,188
+G2400030740305,2014-2018,,,Maryland,24,Anne Arundel County,3,,,740305,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7403.05, Anne Arundel County, Maryland",,,93677,4291,4023,268
+G2400030740400,2014-2018,,,Maryland,24,Anne Arundel County,3,,,740400,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7404, Anne Arundel County, Maryland",,,,0,0,0
+G2400030740500,2014-2018,,,Maryland,24,Anne Arundel County,3,,,740500,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7405, Anne Arundel County, Maryland",,,118882,4464,4343,121
+G2400030740601,2014-2018,,,Maryland,24,Anne Arundel County,3,,,740601,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7406.01, Anne Arundel County, Maryland",,,79583,1290,1213,77
+G2400030740602,2014-2018,,,Maryland,24,Anne Arundel County,3,,,740602,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7406.02, Anne Arundel County, Maryland",,,75952,1194,1074,120
+G2400030740603,2014-2018,,,Maryland,24,Anne Arundel County,3,,,740603,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7406.03, Anne Arundel County, Maryland",,,80804,559,483,76
+G2400030740701,2014-2018,,,Maryland,24,Anne Arundel County,3,,,740701,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7407.01, Anne Arundel County, Maryland",,,94894,3101,2900,201
+G2400030740702,2014-2018,,,Maryland,24,Anne Arundel County,3,,,740702,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7407.02, Anne Arundel County, Maryland",,,109405,4235,4022,213
+G2400030740800,2014-2018,,,Maryland,24,Anne Arundel County,3,,,740800,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7408, Anne Arundel County, Maryland",,,108594,1911,1806,105
+G2400030740900,2014-2018,,,Maryland,24,Anne Arundel County,3,,,740900,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7409, Anne Arundel County, Maryland",,,84583,2628,2603,25
+G2400030741000,2014-2018,,,Maryland,24,Anne Arundel County,3,,,741000,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7410, Anne Arundel County, Maryland",,,142500,924,844,80
+G2400030750101,2014-2018,,,Maryland,24,Anne Arundel County,3,,,750101,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7501.01, Anne Arundel County, Maryland",,,52258,1635,1556,79
+G2400030750102,2014-2018,,,Maryland,24,Anne Arundel County,3,,,750102,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7501.02, Anne Arundel County, Maryland",,,62829,954,905,49
+G2400030750201,2014-2018,,,Maryland,24,Anne Arundel County,3,,,750201,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7502.01, Anne Arundel County, Maryland",,,42378,1269,1215,54
+G2400030750202,2014-2018,,,Maryland,24,Anne Arundel County,3,,,750202,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7502.02, Anne Arundel County, Maryland",,,77786,1288,1194,94
+G2400030750203,2014-2018,,,Maryland,24,Anne Arundel County,3,,,750203,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7502.03, Anne Arundel County, Maryland",,,62391,590,476,114
+G2400030750300,2014-2018,,,Maryland,24,Anne Arundel County,3,,,750300,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7503, Anne Arundel County, Maryland",,,81453,1124,1034,90
+G2400030750400,2014-2018,,,Maryland,24,Anne Arundel County,3,,,750400,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7504, Anne Arundel County, Maryland",,,99398,1660,1593,67
+G2400030750801,2014-2018,,,Maryland,24,Anne Arundel County,3,,,750801,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7508.01, Anne Arundel County, Maryland",,,90705,2157,2116,41
+G2400030750803,2014-2018,,,Maryland,24,Anne Arundel County,3,,,750803,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7508.03, Anne Arundel County, Maryland",,,57826,2986,2883,103
+G2400030750804,2014-2018,,,Maryland,24,Anne Arundel County,3,,,750804,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7508.04, Anne Arundel County, Maryland",,,67770,1541,1430,111
+G2400030750900,2014-2018,,,Maryland,24,Anne Arundel County,3,,,750900,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7509, Anne Arundel County, Maryland",,,56063,1321,1321,0
+G2400030751000,2014-2018,,,Maryland,24,Anne Arundel County,3,,,751000,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7510, Anne Arundel County, Maryland",,,68848,1518,1371,147
+G2400030751102,2014-2018,,,Maryland,24,Anne Arundel County,3,,,751102,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7511.02, Anne Arundel County, Maryland",,,68449,1821,1649,172
+G2400030751103,2014-2018,,,Maryland,24,Anne Arundel County,3,,,751103,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7511.03, Anne Arundel County, Maryland",,,70116,2339,2146,193
+G2400030751200,2014-2018,,,Maryland,24,Anne Arundel County,3,,,751200,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7512, Anne Arundel County, Maryland",,,94184,2170,1858,312
+G2400030751400,2014-2018,,,Maryland,24,Anne Arundel County,3,,,751400,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7514, Anne Arundel County, Maryland",,,118534,1548,1495,53
+G2400030751500,2014-2018,,,Maryland,24,Anne Arundel County,3,,,751500,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7515, Anne Arundel County, Maryland",,,73971,2615,2270,345
+G2400030751600,2014-2018,,,Maryland,24,Anne Arundel County,3,,,751600,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7516, Anne Arundel County, Maryland",,,89265,2672,2630,42
+G2400030751700,2014-2018,,,Maryland,24,Anne Arundel County,3,,,751700,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 7517, Anne Arundel County, Maryland",,,186250,970,914,56
+G2400030980000,2014-2018,,,Maryland,24,Anne Arundel County,3,,,980000,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 9800, Anne Arundel County, Maryland",,,,0,0,0
+G2400030990000,2014-2018,,,Maryland,24,Anne Arundel County,3,,,990000,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 9900, Anne Arundel County, Maryland",,,,0,0,0
+G2400050400100,2014-2018,,,Maryland,24,Baltimore County,5,,,400100,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4001, Baltimore County, Maryland",,,49353,2390,2251,139
+G2400050400200,2014-2018,,,Maryland,24,Baltimore County,5,,,400200,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4002, Baltimore County, Maryland",,,74042,1144,1056,88
+G2400050400400,2014-2018,,,Maryland,24,Baltimore County,5,,,400400,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4004, Baltimore County, Maryland",,,120217,2212,2077,135
+G2400050400500,2014-2018,,,Maryland,24,Baltimore County,5,,,400500,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4005, Baltimore County, Maryland",,,146364,960,906,54
+G2400050400600,2014-2018,,,Maryland,24,Baltimore County,5,,,400600,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4006, Baltimore County, Maryland",,,88207,1266,1183,83
+G2400050400701,2014-2018,,,Maryland,24,Baltimore County,5,,,400701,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4007.01, Baltimore County, Maryland",,,70671,1343,1276,67
+G2400050400702,2014-2018,,,Maryland,24,Baltimore County,5,,,400702,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4007.02, Baltimore County, Maryland",,,93750,683,614,69
+G2400050400800,2014-2018,,,Maryland,24,Baltimore County,5,,,400800,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4008, Baltimore County, Maryland",,,74226,1105,993,112
+G2400050400900,2014-2018,,,Maryland,24,Baltimore County,5,,,400900,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4009, Baltimore County, Maryland",,,72813,759,739,20
+G2400050401000,2014-2018,,,Maryland,24,Baltimore County,5,,,401000,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4010, Baltimore County, Maryland",,,101389,828,810,18
+G2400050401101,2014-2018,,,Maryland,24,Baltimore County,5,,,401101,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4011.01, Baltimore County, Maryland",,,66213,2374,2014,360
+G2400050401102,2014-2018,,,Maryland,24,Baltimore County,5,,,401102,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4011.02, Baltimore County, Maryland",,,53454,507,445,62
+G2400050401200,2014-2018,,,Maryland,24,Baltimore County,5,,,401200,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4012, Baltimore County, Maryland",,,79250,1260,1123,137
+G2400050401301,2014-2018,,,Maryland,24,Baltimore County,5,,,401301,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4013.01, Baltimore County, Maryland",,,54135,1523,1413,110
+G2400050401302,2014-2018,,,Maryland,24,Baltimore County,5,,,401302,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4013.02, Baltimore County, Maryland",,,49701,1381,1288,93
+G2400050401400,2014-2018,,,Maryland,24,Baltimore County,5,,,401400,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4014, Baltimore County, Maryland",,,123214,587,582,5
+G2400050401503,2014-2018,,,Maryland,24,Baltimore County,5,,,401503,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4015.03, Baltimore County, Maryland",,,97423,2756,2678,78
+G2400050401504,2014-2018,,,Maryland,24,Baltimore County,5,,,401504,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4015.04, Baltimore County, Maryland",,,84114,2276,2241,35
+G2400050401505,2014-2018,,,Maryland,24,Baltimore County,5,,,401505,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4015.05, Baltimore County, Maryland",,,66786,1582,1540,42
+G2400050401506,2014-2018,,,Maryland,24,Baltimore County,5,,,401506,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4015.06, Baltimore County, Maryland",,,75658,1871,1842,29
+G2400050401507,2014-2018,,,Maryland,24,Baltimore County,5,,,401507,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4015.07, Baltimore County, Maryland",,,59243,2144,1936,208
+G2400050402201,2014-2018,,,Maryland,24,Baltimore County,5,,,402201,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4022.01, Baltimore County, Maryland",,,96328,1144,1069,75
+G2400050402202,2014-2018,,,Maryland,24,Baltimore County,5,,,402202,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4022.02, Baltimore County, Maryland",,,128125,629,569,60
+G2400050402302,2014-2018,,,Maryland,24,Baltimore County,5,,,402302,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4023.02, Baltimore County, Maryland",,,80761,1946,1846,100
+G2400050402303,2014-2018,,,Maryland,24,Baltimore County,5,,,402303,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4023.03, Baltimore County, Maryland",,,70464,2725,2623,102
+G2400050402304,2014-2018,,,Maryland,24,Baltimore County,5,,,402304,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4023.04, Baltimore County, Maryland",,,59436,1466,1377,89
+G2400050402305,2014-2018,,,Maryland,24,Baltimore County,5,,,402305,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4023.05, Baltimore County, Maryland",,,59214,835,796,39
+G2400050402306,2014-2018,,,Maryland,24,Baltimore County,5,,,402306,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4023.06, Baltimore County, Maryland",,,49637,1703,1613,90
+G2400050402307,2014-2018,,,Maryland,24,Baltimore County,5,,,402307,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4023.07, Baltimore County, Maryland",,,64497,2638,2389,249
+G2400050402403,2014-2018,,,Maryland,24,Baltimore County,5,,,402403,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4024.03, Baltimore County, Maryland",,,65357,892,842,50
+G2400050402404,2014-2018,,,Maryland,24,Baltimore County,5,,,402404,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4024.04, Baltimore County, Maryland",,,53414,2338,2183,155
+G2400050402405,2014-2018,,,Maryland,24,Baltimore County,5,,,402405,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4024.05, Baltimore County, Maryland",,,54301,1479,1393,86
+G2400050402406,2014-2018,,,Maryland,24,Baltimore County,5,,,402406,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4024.06, Baltimore County, Maryland",,,72500,2984,2470,514
+G2400050402407,2014-2018,,,Maryland,24,Baltimore County,5,,,402407,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4024.07, Baltimore County, Maryland",,,54063,614,543,71
+G2400050402503,2014-2018,,,Maryland,24,Baltimore County,5,,,402503,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4025.03, Baltimore County, Maryland",,,49691,2224,2152,72
+G2400050402504,2014-2018,,,Maryland,24,Baltimore County,5,,,402504,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4025.04, Baltimore County, Maryland",,,98031,1603,1523,80
+G2400050402505,2014-2018,,,Maryland,24,Baltimore County,5,,,402505,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4025.05, Baltimore County, Maryland",,,58606,1408,1382,26
+G2400050402506,2014-2018,,,Maryland,24,Baltimore County,5,,,402506,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4025.06, Baltimore County, Maryland",,,90221,1472,1443,29
+G2400050402509,2014-2018,,,Maryland,24,Baltimore County,5,,,402509,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4025.09, Baltimore County, Maryland",,,90970,4428,4154,274
+G2400050402602,2014-2018,,,Maryland,24,Baltimore County,5,,,402602,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4026.02, Baltimore County, Maryland",,,72903,741,730,11
+G2400050402603,2014-2018,,,Maryland,24,Baltimore County,5,,,402603,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4026.03, Baltimore County, Maryland",,,109286,2487,2246,241
+G2400050402604,2014-2018,,,Maryland,24,Baltimore County,5,,,402604,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4026.04, Baltimore County, Maryland",,,90292,2205,2079,126
+G2400050403100,2014-2018,,,Maryland,24,Baltimore County,5,,,403100,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4031, Baltimore County, Maryland",,,73542,964,903,61
+G2400050403201,2014-2018,,,Maryland,24,Baltimore County,5,,,403201,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4032.01, Baltimore County, Maryland",,,76993,1213,1149,64
+G2400050403202,2014-2018,,,Maryland,24,Baltimore County,5,,,403202,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4032.02, Baltimore County, Maryland",,,71488,881,827,54
+G2400050403300,2014-2018,,,Maryland,24,Baltimore County,5,,,403300,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4033, Baltimore County, Maryland",,,91875,1043,996,47
+G2400050403401,2014-2018,,,Maryland,24,Baltimore County,5,,,403401,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4034.01, Baltimore County, Maryland",,,74896,1981,1757,224
+G2400050403402,2014-2018,,,Maryland,24,Baltimore County,5,,,403402,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4034.02, Baltimore County, Maryland",,,51623,2179,2138,41
+G2400050403500,2014-2018,,,Maryland,24,Baltimore County,5,,,403500,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4035, Baltimore County, Maryland",,,100250,1862,1786,76
+G2400050403601,2014-2018,,,Maryland,24,Baltimore County,5,,,403601,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4036.01, Baltimore County, Maryland",,,79554,2045,1963,82
+G2400050403602,2014-2018,,,Maryland,24,Baltimore County,5,,,403602,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4036.02, Baltimore County, Maryland",,,96271,2367,2219,148
+G2400050403701,2014-2018,,,Maryland,24,Baltimore County,5,,,403701,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4037.01, Baltimore County, Maryland",,,82156,3396,3209,187
+G2400050403702,2014-2018,,,Maryland,24,Baltimore County,5,,,403702,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4037.02, Baltimore County, Maryland",,,81211,2249,2052,197
+G2400050403801,2014-2018,,,Maryland,24,Baltimore County,5,,,403801,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4038.01, Baltimore County, Maryland",,,192188,654,624,30
+G2400050403802,2014-2018,,,Maryland,24,Baltimore County,5,,,403802,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4038.02, Baltimore County, Maryland",,,164633,1157,1070,87
+G2400050403803,2014-2018,,,Maryland,24,Baltimore County,5,,,403803,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4038.03, Baltimore County, Maryland",,,97500,1754,1694,60
+G2400050404101,2014-2018,,,Maryland,24,Baltimore County,5,,,404101,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4041.01, Baltimore County, Maryland",,,94067,2943,2595,348
+G2400050404102,2014-2018,,,Maryland,24,Baltimore County,5,,,404102,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4041.02, Baltimore County, Maryland",,,72391,2296,2296,0
+G2400050404201,2014-2018,,,Maryland,24,Baltimore County,5,,,404201,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4042.01, Baltimore County, Maryland",,,79464,2295,2122,173
+G2400050404202,2014-2018,,,Maryland,24,Baltimore County,5,,,404202,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4042.02, Baltimore County, Maryland",,,54544,2874,2617,257
+G2400050404402,2014-2018,,,Maryland,24,Baltimore County,5,,,404402,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4044.02, Baltimore County, Maryland",,,115903,2328,2312,16
+G2400050404403,2014-2018,,,Maryland,24,Baltimore County,5,,,404403,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4044.03, Baltimore County, Maryland",,,51620,2169,2025,144
+G2400050404404,2014-2018,,,Maryland,24,Baltimore County,5,,,404404,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4044.04, Baltimore County, Maryland",,,79955,2030,1995,35
+G2400050404501,2014-2018,,,Maryland,24,Baltimore County,5,,,404501,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4045.01, Baltimore County, Maryland",,,74073,2579,2517,62
+G2400050404502,2014-2018,,,Maryland,24,Baltimore County,5,,,404502,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4045.02, Baltimore County, Maryland",,,56573,1595,1427,168
+G2400050404600,2014-2018,,,Maryland,24,Baltimore County,5,,,404600,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4046, Baltimore County, Maryland",,,112750,1085,1022,63
+G2400050404800,2014-2018,,,Maryland,24,Baltimore County,5,,,404800,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4048, Baltimore County, Maryland",,,133529,740,732,8
+G2400050404900,2014-2018,,,Maryland,24,Baltimore County,5,,,404900,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4049, Baltimore County, Maryland",,,151683,1860,1815,45
+G2400050405000,2014-2018,,,Maryland,24,Baltimore County,5,,,405000,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4050, Baltimore County, Maryland",,,111464,1755,1608,147
+G2400050406000,2014-2018,,,Maryland,24,Baltimore County,5,,,406000,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4060, Baltimore County, Maryland",,,112917,2049,1951,98
+G2400050407001,2014-2018,,,Maryland,24,Baltimore County,5,,,407001,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4070.01, Baltimore County, Maryland",,,95658,1238,1180,58
+G2400050407002,2014-2018,,,Maryland,24,Baltimore County,5,,,407002,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4070.02, Baltimore County, Maryland",,,108984,2011,1869,142
+G2400050408100,2014-2018,,,Maryland,24,Baltimore County,5,,,408100,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4081, Baltimore County, Maryland",,,111935,2378,2155,223
+G2400050408200,2014-2018,,,Maryland,24,Baltimore County,5,,,408200,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4082, Baltimore County, Maryland",,,145000,753,722,31
+G2400050408302,2014-2018,,,Maryland,24,Baltimore County,5,,,408302,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4083.02, Baltimore County, Maryland",,,126176,1243,1170,73
+G2400050408303,2014-2018,,,Maryland,24,Baltimore County,5,,,408303,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4083.03, Baltimore County, Maryland",,,182500,1161,1094,67
+G2400050408304,2014-2018,,,Maryland,24,Baltimore County,5,,,408304,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4083.04, Baltimore County, Maryland",,,85463,2415,2334,81
+G2400050408400,2014-2018,,,Maryland,24,Baltimore County,5,,,408400,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4084, Baltimore County, Maryland",,,72000,639,552,87
+G2400050408502,2014-2018,,,Maryland,24,Baltimore County,5,,,408502,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4085.02, Baltimore County, Maryland",,,99833,2254,2042,212
+G2400050408503,2014-2018,,,Maryland,24,Baltimore County,5,,,408503,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4085.03, Baltimore County, Maryland",,,72813,1479,1451,28
+G2400050408505,2014-2018,,,Maryland,24,Baltimore County,5,,,408505,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4085.05, Baltimore County, Maryland",,,92179,1572,1528,44
+G2400050408506,2014-2018,,,Maryland,24,Baltimore County,5,,,408506,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4085.06, Baltimore County, Maryland",,,44237,2435,2381,54
+G2400050408507,2014-2018,,,Maryland,24,Baltimore County,5,,,408507,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4085.07, Baltimore County, Maryland",,,60276,3051,2729,322
+G2400050408601,2014-2018,,,Maryland,24,Baltimore County,5,,,408601,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4086.01, Baltimore County, Maryland",,,104215,1529,1473,56
+G2400050408602,2014-2018,,,Maryland,24,Baltimore County,5,,,408602,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4086.02, Baltimore County, Maryland",,,108269,853,802,51
+G2400050408702,2014-2018,,,Maryland,24,Baltimore County,5,,,408702,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4087.02, Baltimore County, Maryland",,,107875,994,994,0
+G2400050408703,2014-2018,,,Maryland,24,Baltimore County,5,,,408703,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4087.03, Baltimore County, Maryland",,,99276,2838,2663,175
+G2400050408704,2014-2018,,,Maryland,24,Baltimore County,5,,,408704,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4087.04, Baltimore County, Maryland",,,113009,2144,2058,86
+G2400050408800,2014-2018,,,Maryland,24,Baltimore County,5,,,408800,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4088, Baltimore County, Maryland",,,90708,1061,982,79
+G2400050408900,2014-2018,,,Maryland,24,Baltimore County,5,,,408900,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4089, Baltimore County, Maryland",,,105820,1200,1141,59
+G2400050410100,2014-2018,,,Maryland,24,Baltimore County,5,,,410100,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4101, Baltimore County, Maryland",,,137216,2159,2007,152
+G2400050410200,2014-2018,,,Maryland,24,Baltimore County,5,,,410200,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4102, Baltimore County, Maryland",,,146036,1738,1673,65
+G2400050411101,2014-2018,,,Maryland,24,Baltimore County,5,,,411101,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4111.01, Baltimore County, Maryland",,,116528,844,844,0
+G2400050411102,2014-2018,,,Maryland,24,Baltimore County,5,,,411102,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4111.02, Baltimore County, Maryland",,,106458,1194,1096,98
+G2400050411201,2014-2018,,,Maryland,24,Baltimore County,5,,,411201,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4112.01, Baltimore County, Maryland",,,130104,1235,1211,24
+G2400050411202,2014-2018,,,Maryland,24,Baltimore County,5,,,411202,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4112.02, Baltimore County, Maryland",,,121875,1602,1507,95
+G2400050411302,2014-2018,,,Maryland,24,Baltimore County,5,,,411302,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4113.02, Baltimore County, Maryland",,,108542,1243,1129,114
+G2400050411303,2014-2018,,,Maryland,24,Baltimore County,5,,,411303,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4113.03, Baltimore County, Maryland",,,74203,2720,2577,143
+G2400050411306,2014-2018,,,Maryland,24,Baltimore County,5,,,411306,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4113.06, Baltimore County, Maryland",,,90057,2267,2066,201
+G2400050411307,2014-2018,,,Maryland,24,Baltimore County,5,,,411307,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4113.07, Baltimore County, Maryland",,,81536,1570,1449,121
+G2400050411308,2014-2018,,,Maryland,24,Baltimore County,5,,,411308,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4113.08, Baltimore County, Maryland",,,89094,1385,1275,110
+G2400050411309,2014-2018,,,Maryland,24,Baltimore County,5,,,411309,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4113.09, Baltimore County, Maryland",,,111435,3355,3178,177
+G2400050411404,2014-2018,,,Maryland,24,Baltimore County,5,,,411404,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4114.04, Baltimore County, Maryland",,,97950,1407,1383,24
+G2400050411406,2014-2018,,,Maryland,24,Baltimore County,5,,,411406,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4114.06, Baltimore County, Maryland",,,84470,1759,1684,75
+G2400050411407,2014-2018,,,Maryland,24,Baltimore County,5,,,411407,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4114.07, Baltimore County, Maryland",,,55370,5875,5176,699
+G2400050411408,2014-2018,,,Maryland,24,Baltimore County,5,,,411408,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4114.08, Baltimore County, Maryland",,,64954,1574,1493,81
+G2400050411409,2014-2018,,,Maryland,24,Baltimore County,5,,,411409,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4114.09, Baltimore County, Maryland",,,105592,1856,1789,67
+G2400050411410,2014-2018,,,Maryland,24,Baltimore County,5,,,411410,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4114.10, Baltimore County, Maryland",,,93030,1721,1647,74
+G2400050420100,2014-2018,,,Maryland,24,Baltimore County,5,,,420100,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4201, Baltimore County, Maryland",,,58929,1355,1290,65
+G2400050420200,2014-2018,,,Maryland,24,Baltimore County,5,,,420200,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4202, Baltimore County, Maryland",,,62537,1339,1201,138
+G2400050420301,2014-2018,,,Maryland,24,Baltimore County,5,,,420301,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4203.01, Baltimore County, Maryland",,,51875,1077,1057,20
+G2400050420302,2014-2018,,,Maryland,24,Baltimore County,5,,,420302,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4203.02, Baltimore County, Maryland",,,67813,1015,937,78
+G2400050420303,2014-2018,,,Maryland,24,Baltimore County,5,,,420303,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4203.03, Baltimore County, Maryland",,,57188,518,498,20
+G2400050420401,2014-2018,,,Maryland,24,Baltimore County,5,,,420401,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4204.01, Baltimore County, Maryland",,,56635,2290,2019,271
+G2400050420402,2014-2018,,,Maryland,24,Baltimore County,5,,,420402,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4204.02, Baltimore County, Maryland",,,58996,802,725,77
+G2400050420500,2014-2018,,,Maryland,24,Baltimore County,5,,,420500,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4205, Baltimore County, Maryland",,,54013,1428,1365,63
+G2400050420600,2014-2018,,,Maryland,24,Baltimore County,5,,,420600,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4206, Baltimore County, Maryland",,,54891,1536,1316,220
+G2400050420701,2014-2018,,,Maryland,24,Baltimore County,5,,,420701,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4207.01, Baltimore County, Maryland",,,47300,1197,1118,79
+G2400050420702,2014-2018,,,Maryland,24,Baltimore County,5,,,420702,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4207.02, Baltimore County, Maryland",,,42422,859,750,109
+G2400050420800,2014-2018,,,Maryland,24,Baltimore County,5,,,420800,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4208, Baltimore County, Maryland",,,52727,1404,1198,206
+G2400050420900,2014-2018,,,Maryland,24,Baltimore County,5,,,420900,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4209, Baltimore County, Maryland",,,41272,1608,1406,202
+G2400050421000,2014-2018,,,Maryland,24,Baltimore County,5,,,421000,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4210, Baltimore County, Maryland",,,25208,957,870,87
+G2400050421101,2014-2018,,,Maryland,24,Baltimore County,5,,,421101,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4211.01, Baltimore County, Maryland",,,48227,1413,1229,184
+G2400050421102,2014-2018,,,Maryland,24,Baltimore County,5,,,421102,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4211.02, Baltimore County, Maryland",,,63558,1070,979,91
+G2400050421200,2014-2018,,,Maryland,24,Baltimore County,5,,,421200,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4212, Baltimore County, Maryland",,,55119,764,676,88
+G2400050421300,2014-2018,,,Maryland,24,Baltimore County,5,,,421300,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4213, Baltimore County, Maryland",,,41473,1401,1153,248
+G2400050430101,2014-2018,,,Maryland,24,Baltimore County,5,,,430101,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4301.01, Baltimore County, Maryland",,,45280,1670,1489,181
+G2400050430104,2014-2018,,,Maryland,24,Baltimore County,5,,,430104,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4301.04, Baltimore County, Maryland",,,78854,1028,916,112
+G2400050430200,2014-2018,,,Maryland,24,Baltimore County,5,,,430200,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4302, Baltimore County, Maryland",,,47866,1125,1056,69
+G2400050430300,2014-2018,,,Maryland,24,Baltimore County,5,,,430300,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4303, Baltimore County, Maryland",,,36250,2136,1982,154
+G2400050430400,2014-2018,,,Maryland,24,Baltimore County,5,,,430400,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4304, Baltimore County, Maryland",,,84423,1703,1566,137
+G2400050430600,2014-2018,,,Maryland,24,Baltimore County,5,,,430600,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4306, Baltimore County, Maryland",,,105028,905,871,34
+G2400050430700,2014-2018,,,Maryland,24,Baltimore County,5,,,430700,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4307, Baltimore County, Maryland",,,94560,2061,1915,146
+G2400050430800,2014-2018,,,Maryland,24,Baltimore County,5,,,430800,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4308, Baltimore County, Maryland",,,72232,1477,1391,86
+G2400050430900,2014-2018,,,Maryland,24,Baltimore County,5,,,430900,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4309, Baltimore County, Maryland",,,45963,2184,1855,329
+G2400050440100,2014-2018,,,Maryland,24,Baltimore County,5,,,440100,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4401, Baltimore County, Maryland",,,75721,1792,1717,75
+G2400050440200,2014-2018,,,Maryland,24,Baltimore County,5,,,440200,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4402, Baltimore County, Maryland",,,63110,1173,1077,96
+G2400050440300,2014-2018,,,Maryland,24,Baltimore County,5,,,440300,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4403, Baltimore County, Maryland",,,55192,970,924,46
+G2400050440400,2014-2018,,,Maryland,24,Baltimore County,5,,,440400,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4404, Baltimore County, Maryland",,,75958,2009,1905,104
+G2400050440500,2014-2018,,,Maryland,24,Baltimore County,5,,,440500,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4405, Baltimore County, Maryland",,,75179,1338,1219,119
+G2400050440600,2014-2018,,,Maryland,24,Baltimore County,5,,,440600,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4406, Baltimore County, Maryland",,,109375,778,762,16
+G2400050440701,2014-2018,,,Maryland,24,Baltimore County,5,,,440701,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4407.01, Baltimore County, Maryland",,,62347,2629,2456,173
+G2400050440702,2014-2018,,,Maryland,24,Baltimore County,5,,,440702,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4407.02, Baltimore County, Maryland",,,66026,2396,2054,342
+G2400050440800,2014-2018,,,Maryland,24,Baltimore County,5,,,440800,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4408, Baltimore County, Maryland",,,58866,1456,1313,143
+G2400050440900,2014-2018,,,Maryland,24,Baltimore County,5,,,440900,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4409, Baltimore County, Maryland",,,75016,1478,1455,23
+G2400050441000,2014-2018,,,Maryland,24,Baltimore County,5,,,441000,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4410, Baltimore County, Maryland",,,63167,1373,1214,159
+G2400050441101,2014-2018,,,Maryland,24,Baltimore County,5,,,441101,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4411.01, Baltimore County, Maryland",,,61458,880,807,73
+G2400050441102,2014-2018,,,Maryland,24,Baltimore County,5,,,441102,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4411.02, Baltimore County, Maryland",,,64309,1858,1789,69
+G2400050450100,2014-2018,,,Maryland,24,Baltimore County,5,,,450100,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4501, Baltimore County, Maryland",,,61481,1581,1464,117
+G2400050450200,2014-2018,,,Maryland,24,Baltimore County,5,,,450200,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4502, Baltimore County, Maryland",,,62136,1363,1240,123
+G2400050450300,2014-2018,,,Maryland,24,Baltimore County,5,,,450300,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4503, Baltimore County, Maryland",,,49690,1434,1328,106
+G2400050450400,2014-2018,,,Maryland,24,Baltimore County,5,,,450400,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4504, Baltimore County, Maryland",,,73462,853,746,107
+G2400050450501,2014-2018,,,Maryland,24,Baltimore County,5,,,450501,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4505.01, Baltimore County, Maryland",,,48843,1826,1619,207
+G2400050450503,2014-2018,,,Maryland,24,Baltimore County,5,,,450503,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4505.03, Baltimore County, Maryland",,,55250,2341,2283,58
+G2400050450504,2014-2018,,,Maryland,24,Baltimore County,5,,,450504,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4505.04, Baltimore County, Maryland",,,38585,2851,2453,398
+G2400050450800,2014-2018,,,Maryland,24,Baltimore County,5,,,450800,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4508, Baltimore County, Maryland",,,43262,1817,1591,226
+G2400050450900,2014-2018,,,Maryland,24,Baltimore County,5,,,450900,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4509, Baltimore County, Maryland",,,82587,1733,1635,98
+G2400050451000,2014-2018,,,Maryland,24,Baltimore County,5,,,451000,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4510, Baltimore County, Maryland",,,90288,717,611,106
+G2400050451100,2014-2018,,,Maryland,24,Baltimore County,5,,,451100,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4511, Baltimore County, Maryland",,,78750,765,724,41
+G2400050451200,2014-2018,,,Maryland,24,Baltimore County,5,,,451200,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4512, Baltimore County, Maryland",,,70250,1614,1504,110
+G2400050451300,2014-2018,,,Maryland,24,Baltimore County,5,,,451300,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4513, Baltimore County, Maryland",,,47813,1504,1412,92
+G2400050451401,2014-2018,,,Maryland,24,Baltimore County,5,,,451401,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4514.01, Baltimore County, Maryland",,,73462,1399,1162,237
+G2400050451402,2014-2018,,,Maryland,24,Baltimore County,5,,,451402,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4514.02, Baltimore County, Maryland",,,51036,2246,1894,352
+G2400050451500,2014-2018,,,Maryland,24,Baltimore County,5,,,451500,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4515, Baltimore County, Maryland",,,64342,1431,1276,155
+G2400050451600,2014-2018,,,Maryland,24,Baltimore County,5,,,451600,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4516, Baltimore County, Maryland",,,59250,973,920,53
+G2400050451701,2014-2018,,,Maryland,24,Baltimore County,5,,,451701,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4517.01, Baltimore County, Maryland",,,92792,1647,1535,112
+G2400050451702,2014-2018,,,Maryland,24,Baltimore County,5,,,451702,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4517.02, Baltimore County, Maryland",,,74811,762,733,29
+G2400050451801,2014-2018,,,Maryland,24,Baltimore County,5,,,451801,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4518.01, Baltimore County, Maryland",,,50750,2039,2039,0
+G2400050451802,2014-2018,,,Maryland,24,Baltimore County,5,,,451802,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4518.02, Baltimore County, Maryland",,,69219,1788,1704,84
+G2400050451803,2014-2018,,,Maryland,24,Baltimore County,5,,,451803,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4518.03, Baltimore County, Maryland",,,76719,1929,1795,134
+G2400050451900,2014-2018,,,Maryland,24,Baltimore County,5,,,451900,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4519, Baltimore County, Maryland",,,77829,1035,949,86
+G2400050452000,2014-2018,,,Maryland,24,Baltimore County,5,,,452000,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4520, Baltimore County, Maryland",,,70375,1014,995,19
+G2400050452100,2014-2018,,,Maryland,24,Baltimore County,5,,,452100,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4521, Baltimore County, Maryland",,,75745,1440,1279,161
+G2400050452300,2014-2018,,,Maryland,24,Baltimore County,5,,,452300,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4523, Baltimore County, Maryland",,,48750,1194,1046,148
+G2400050452400,2014-2018,,,Maryland,24,Baltimore County,5,,,452400,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4524, Baltimore County, Maryland",,,68688,1375,1207,168
+G2400050452500,2014-2018,,,Maryland,24,Baltimore County,5,,,452500,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4525, Baltimore County, Maryland",,,54383,1405,1270,135
+G2400050490100,2014-2018,,,Maryland,24,Baltimore County,5,,,490100,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4901, Baltimore County, Maryland",,,146250,1588,1470,118
+G2400050490200,2014-2018,,,Maryland,24,Baltimore County,5,,,490200,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4902, Baltimore County, Maryland",,,120508,1081,1025,56
+G2400050490301,2014-2018,,,Maryland,24,Baltimore County,5,,,490301,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4903.01, Baltimore County, Maryland",,,55365,3298,2867,431
+G2400050490302,2014-2018,,,Maryland,24,Baltimore County,5,,,490302,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4903.02, Baltimore County, Maryland",,,74113,1382,1256,126
+G2400050490400,2014-2018,,,Maryland,24,Baltimore County,5,,,490400,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4904, Baltimore County, Maryland",,,178958,729,679,50
+G2400050490500,2014-2018,,,Maryland,24,Baltimore County,5,,,490500,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4905, Baltimore County, Maryland",,,161051,1520,1470,50
+G2400050490601,2014-2018,,,Maryland,24,Baltimore County,5,,,490601,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4906.01, Baltimore County, Maryland",,,110625,823,778,45
+G2400050490602,2014-2018,,,Maryland,24,Baltimore County,5,,,490602,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4906.02, Baltimore County, Maryland",,,95043,1354,1237,117
+G2400050490603,2014-2018,,,Maryland,24,Baltimore County,5,,,490603,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4906.03, Baltimore County, Maryland",,,105517,999,934,65
+G2400050490605,2014-2018,,,Maryland,24,Baltimore County,5,,,490605,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4906.05, Baltimore County, Maryland",,,11190,218,172,46
+G2400050490701,2014-2018,,,Maryland,24,Baltimore County,5,,,490701,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4907.01, Baltimore County, Maryland",,,104583,667,662,5
+G2400050490703,2014-2018,,,Maryland,24,Baltimore County,5,,,490703,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4907.03, Baltimore County, Maryland",,,88466,1496,1427,69
+G2400050490800,2014-2018,,,Maryland,24,Baltimore County,5,,,490800,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4908, Baltimore County, Maryland",,,98182,1421,1306,115
+G2400050490900,2014-2018,,,Maryland,24,Baltimore County,5,,,490900,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4909, Baltimore County, Maryland",,,56667,2520,2270,250
+G2400050491000,2014-2018,,,Maryland,24,Baltimore County,5,,,491000,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4910, Baltimore County, Maryland",,,154167,798,784,14
+G2400050491100,2014-2018,,,Maryland,24,Baltimore County,5,,,491100,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4911, Baltimore County, Maryland",,,96161,1468,1375,93
+G2400050491201,2014-2018,,,Maryland,24,Baltimore County,5,,,491201,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4912.01, Baltimore County, Maryland",,,85750,821,741,80
+G2400050491202,2014-2018,,,Maryland,24,Baltimore County,5,,,491202,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4912.02, Baltimore County, Maryland",,,79268,800,782,18
+G2400050491300,2014-2018,,,Maryland,24,Baltimore County,5,,,491300,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4913, Baltimore County, Maryland",,,66912,1480,1378,102
+G2400050491401,2014-2018,,,Maryland,24,Baltimore County,5,,,491401,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4914.01, Baltimore County, Maryland",,,45403,2398,2295,103
+G2400050491402,2014-2018,,,Maryland,24,Baltimore County,5,,,491402,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4914.02, Baltimore County, Maryland",,,54531,1179,1048,131
+G2400050491500,2014-2018,,,Maryland,24,Baltimore County,5,,,491500,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4915, Baltimore County, Maryland",,,76765,1770,1688,82
+G2400050491600,2014-2018,,,Maryland,24,Baltimore County,5,,,491600,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4916, Baltimore County, Maryland",,,61667,1226,1140,86
+G2400050491701,2014-2018,,,Maryland,24,Baltimore County,5,,,491701,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4917.01, Baltimore County, Maryland",,,74583,1847,1723,124
+G2400050491900,2014-2018,,,Maryland,24,Baltimore County,5,,,491900,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4919, Baltimore County, Maryland",,,66058,856,787,69
+G2400050492001,2014-2018,,,Maryland,24,Baltimore County,5,,,492001,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4920.01, Baltimore County, Maryland",,,54828,616,586,30
+G2400050492002,2014-2018,,,Maryland,24,Baltimore County,5,,,492002,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4920.02, Baltimore County, Maryland",,,80082,1626,1513,113
+G2400050492101,2014-2018,,,Maryland,24,Baltimore County,5,,,492101,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4921.01, Baltimore County, Maryland",,,63628,1625,1615,10
+G2400050492102,2014-2018,,,Maryland,24,Baltimore County,5,,,492102,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4921.02, Baltimore County, Maryland",,,79808,881,802,79
+G2400050492200,2014-2018,,,Maryland,24,Baltimore County,5,,,492200,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4922, Baltimore County, Maryland",,,61015,2002,1967,35
+G2400050492300,2014-2018,,,Maryland,24,Baltimore County,5,,,492300,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4923, Baltimore County, Maryland",,,61719,1427,1169,258
+G2400050492401,2014-2018,,,Maryland,24,Baltimore County,5,,,492401,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4924.01, Baltimore County, Maryland",,,92381,1443,1374,69
+G2400050492402,2014-2018,,,Maryland,24,Baltimore County,5,,,492402,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4924.02, Baltimore County, Maryland",,,79776,3098,2815,283
+G2400050492500,2014-2018,,,Maryland,24,Baltimore County,5,,,492500,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4925, Baltimore County, Maryland",,,103750,16,16,0
+G2400050492600,2014-2018,,,Maryland,24,Baltimore County,5,,,492600,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 4926, Baltimore County, Maryland",,,66370,1546,1474,72
+G2400050980000,2014-2018,,,Maryland,24,Baltimore County,5,,,980000,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 9800, Baltimore County, Maryland",,,,0,0,0
+G2400050980100,2014-2018,,,Maryland,24,Baltimore County,5,,,980100,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 9801, Baltimore County, Maryland",,,,0,0,0
+G2400050980200,2014-2018,,,Maryland,24,Baltimore County,5,,,980200,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 9802, Baltimore County, Maryland",,,,0,0,0
+G2405100010100,2014-2018,,,Maryland,24,Baltimore city,510,,,10100,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 101, Baltimore city, Maryland",,,109808,1636,1398,238
+G2405100010200,2014-2018,,,Maryland,24,Baltimore city,510,,,10200,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 102, Baltimore city, Maryland",,,107617,1494,1393,101
+G2405100010300,2014-2018,,,Maryland,24,Baltimore city,510,,,10300,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 103, Baltimore city, Maryland",,,138686,1219,1079,140
+G2405100010400,2014-2018,,,Maryland,24,Baltimore city,510,,,10400,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 104, Baltimore city, Maryland",,,114453,1778,1388,390
+G2405100010500,2014-2018,,,Maryland,24,Baltimore city,510,,,10500,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 105, Baltimore city, Maryland",,,99167,903,788,115
+G2405100020100,2014-2018,,,Maryland,24,Baltimore city,510,,,20100,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 201, Baltimore city, Maryland",,,90500,1017,808,209
+G2405100020200,2014-2018,,,Maryland,24,Baltimore city,510,,,20200,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 202, Baltimore city, Maryland",,,89375,954,761,193
+G2405100020300,2014-2018,,,Maryland,24,Baltimore city,510,,,20300,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 203, Baltimore city, Maryland",,,108516,2549,2143,406
+G2405100030100,2014-2018,,,Maryland,24,Baltimore city,510,,,30100,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 301, Baltimore city, Maryland",,,19741,1384,1054,330
+G2405100030200,2014-2018,,,Maryland,24,Baltimore city,510,,,30200,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 302, Baltimore city, Maryland",,,77301,1358,1161,197
+G2405100040100,2014-2018,,,Maryland,24,Baltimore city,510,,,40100,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 401, Baltimore city, Maryland",,,62500,3141,2596,545
+G2405100040200,2014-2018,,,Maryland,24,Baltimore city,510,,,40200,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 402, Baltimore city, Maryland",,,34375,360,228,132
+G2405100060100,2014-2018,,,Maryland,24,Baltimore city,510,,,60100,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 601, Baltimore city, Maryland",,,48661,1258,948,310
+G2405100060200,2014-2018,,,Maryland,24,Baltimore city,510,,,60200,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 602, Baltimore city, Maryland",,,72465,1476,1079,397
+G2405100060300,2014-2018,,,Maryland,24,Baltimore city,510,,,60300,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 603, Baltimore city, Maryland",,,68088,915,750,165
+G2405100060400,2014-2018,,,Maryland,24,Baltimore city,510,,,60400,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 604, Baltimore city, Maryland",,,55368,885,761,124
+G2405100070100,2014-2018,,,Maryland,24,Baltimore city,510,,,70100,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 701, Baltimore city, Maryland",,,39602,1125,749,376
+G2405100070200,2014-2018,,,Maryland,24,Baltimore city,510,,,70200,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 702, Baltimore city, Maryland",,,32000,1535,990,545
+G2405100070300,2014-2018,,,Maryland,24,Baltimore city,510,,,70300,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 703, Baltimore city, Maryland",,,29261,532,307,225
+G2405100070400,2014-2018,,,Maryland,24,Baltimore city,510,,,70400,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 704, Baltimore city, Maryland",,,18977,876,755,121
+G2405100080101,2014-2018,,,Maryland,24,Baltimore city,510,,,80101,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 801.01, Baltimore city, Maryland",,,63542,1456,1289,167
+G2405100080102,2014-2018,,,Maryland,24,Baltimore city,510,,,80102,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 801.02, Baltimore city, Maryland",,,33711,960,726,234
+G2405100080200,2014-2018,,,Maryland,24,Baltimore city,510,,,80200,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 802, Baltimore city, Maryland",,,29485,760,507,253
+G2405100080301,2014-2018,,,Maryland,24,Baltimore city,510,,,80301,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 803.01, Baltimore city, Maryland",,,37574,1026,581,445
+G2405100080302,2014-2018,,,Maryland,24,Baltimore city,510,,,80302,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 803.02, Baltimore city, Maryland",,,32167,1327,1084,243
+G2405100080400,2014-2018,,,Maryland,24,Baltimore city,510,,,80400,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 804, Baltimore city, Maryland",,,30096,799,401,398
+G2405100080500,2014-2018,,,Maryland,24,Baltimore city,510,,,80500,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 805, Baltimore city, Maryland",,,27939,766,527,239
+G2405100080600,2014-2018,,,Maryland,24,Baltimore city,510,,,80600,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 806, Baltimore city, Maryland",,,34688,1371,769,602
+G2405100080700,2014-2018,,,Maryland,24,Baltimore city,510,,,80700,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 807, Baltimore city, Maryland",,,35282,715,341,374
+G2405100080800,2014-2018,,,Maryland,24,Baltimore city,510,,,80800,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 808, Baltimore city, Maryland",,,38304,780,459,321
+G2405100090100,2014-2018,,,Maryland,24,Baltimore city,510,,,90100,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 901, Baltimore city, Maryland",,,45962,1949,1628,321
+G2405100090200,2014-2018,,,Maryland,24,Baltimore city,510,,,90200,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 902, Baltimore city, Maryland",,,70500,1291,1184,107
+G2405100090300,2014-2018,,,Maryland,24,Baltimore city,510,,,90300,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 903, Baltimore city, Maryland",,,42206,2128,1882,246
+G2405100090400,2014-2018,,,Maryland,24,Baltimore city,510,,,90400,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 904, Baltimore city, Maryland",,,30125,819,659,160
+G2405100090500,2014-2018,,,Maryland,24,Baltimore city,510,,,90500,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 905, Baltimore city, Maryland",,,42296,862,680,182
+G2405100090600,2014-2018,,,Maryland,24,Baltimore city,510,,,90600,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 906, Baltimore city, Maryland",,,45306,1347,885,462
+G2405100090700,2014-2018,,,Maryland,24,Baltimore city,510,,,90700,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 907, Baltimore city, Maryland",,,27440,1484,1093,391
+G2405100090800,2014-2018,,,Maryland,24,Baltimore city,510,,,90800,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 908, Baltimore city, Maryland",,,35808,1477,946,531
+G2405100090900,2014-2018,,,Maryland,24,Baltimore city,510,,,90900,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 909, Baltimore city, Maryland",,,23750,1378,922,456
+G2405100100100,2014-2018,,,Maryland,24,Baltimore city,510,,,100100,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 1001, Baltimore city, Maryland",,,25215,1144,850,294
+G2405100100200,2014-2018,,,Maryland,24,Baltimore city,510,,,100200,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 1002, Baltimore city, Maryland",,,13074,1279,1054,225
+G2405100100300,2014-2018,,,Maryland,24,Baltimore city,510,,,100300,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 1003, Baltimore city, Maryland",,,,0,0,0
+G2405100110100,2014-2018,,,Maryland,24,Baltimore city,510,,,110100,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 1101, Baltimore city, Maryland",,,55216,2317,1999,318
+G2405100110200,2014-2018,,,Maryland,24,Baltimore city,510,,,110200,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 1102, Baltimore city, Maryland",,,45406,4240,3735,505
+G2405100120100,2014-2018,,,Maryland,24,Baltimore city,510,,,120100,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 1201, Baltimore city, Maryland",,,65313,2537,2340,197
+G2405100120201,2014-2018,,,Maryland,24,Baltimore city,510,,,120201,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 1202.01, Baltimore city, Maryland",,,82917,987,843,144
+G2405100120202,2014-2018,,,Maryland,24,Baltimore city,510,,,120202,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 1202.02, Baltimore city, Maryland",,,36435,1971,1638,333
+G2405100120300,2014-2018,,,Maryland,24,Baltimore city,510,,,120300,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 1203, Baltimore city, Maryland",,,52857,1909,1630,279
+G2405100120400,2014-2018,,,Maryland,24,Baltimore city,510,,,120400,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 1204, Baltimore city, Maryland",,,38507,931,667,264
+G2405100120500,2014-2018,,,Maryland,24,Baltimore city,510,,,120500,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 1205, Baltimore city, Maryland",,,60750,1200,944,256
+G2405100120600,2014-2018,,,Maryland,24,Baltimore city,510,,,120600,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 1206, Baltimore city, Maryland",,,29036,1930,1581,349
+G2405100120700,2014-2018,,,Maryland,24,Baltimore city,510,,,120700,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 1207, Baltimore city, Maryland",,,65068,1173,1038,135
+G2405100130100,2014-2018,,,Maryland,24,Baltimore city,510,,,130100,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 1301, Baltimore city, Maryland",,,24639,1862,1459,403
+G2405100130200,2014-2018,,,Maryland,24,Baltimore city,510,,,130200,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 1302, Baltimore city, Maryland",,,46690,1519,1097,422
+G2405100130300,2014-2018,,,Maryland,24,Baltimore city,510,,,130300,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 1303, Baltimore city, Maryland",,,35952,1357,806,551
+G2405100130400,2014-2018,,,Maryland,24,Baltimore city,510,,,130400,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 1304, Baltimore city, Maryland",,,28750,1226,777,449
+G2405100130600,2014-2018,,,Maryland,24,Baltimore city,510,,,130600,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 1306, Baltimore city, Maryland",,,95500,1838,1638,200
+G2405100130700,2014-2018,,,Maryland,24,Baltimore city,510,,,130700,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 1307, Baltimore city, Maryland",,,58815,2694,2445,249
+G2405100130803,2014-2018,,,Maryland,24,Baltimore city,510,,,130803,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 1308.03, Baltimore city, Maryland",,,55128,1282,1168,114
+G2405100130804,2014-2018,,,Maryland,24,Baltimore city,510,,,130804,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 1308.04, Baltimore city, Maryland",,,67019,992,907,85
+G2405100130805,2014-2018,,,Maryland,24,Baltimore city,510,,,130805,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 1308.05, Baltimore city, Maryland",,,39750,616,568,48
+G2405100130806,2014-2018,,,Maryland,24,Baltimore city,510,,,130806,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 1308.06, Baltimore city, Maryland",,,87188,621,544,77
+G2405100140100,2014-2018,,,Maryland,24,Baltimore city,510,,,140100,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 1401, Baltimore city, Maryland",,,49688,2650,2240,410
+G2405100140200,2014-2018,,,Maryland,24,Baltimore city,510,,,140200,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 1402, Baltimore city, Maryland",,,28000,1381,782,599
+G2405100140300,2014-2018,,,Maryland,24,Baltimore city,510,,,140300,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 1403, Baltimore city, Maryland",,,38194,1507,931,576
+G2405100150100,2014-2018,,,Maryland,24,Baltimore city,510,,,150100,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 1501, Baltimore city, Maryland",,,17346,1519,948,571
+G2405100150200,2014-2018,,,Maryland,24,Baltimore city,510,,,150200,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 1502, Baltimore city, Maryland",,,42917,1464,774,690
+G2405100150300,2014-2018,,,Maryland,24,Baltimore city,510,,,150300,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 1503, Baltimore city, Maryland",,,38194,1037,703,334
+G2405100150400,2014-2018,,,Maryland,24,Baltimore city,510,,,150400,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 1504, Baltimore city, Maryland",,,35479,1781,1220,561
+G2405100150500,2014-2018,,,Maryland,24,Baltimore city,510,,,150500,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 1505, Baltimore city, Maryland",,,33670,745,618,127
+G2405100150600,2014-2018,,,Maryland,24,Baltimore city,510,,,150600,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 1506, Baltimore city, Maryland",,,30529,1571,1005,566
+G2405100150701,2014-2018,,,Maryland,24,Baltimore city,510,,,150701,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 1507.01, Baltimore city, Maryland",,,47109,820,589,231
+G2405100150702,2014-2018,,,Maryland,24,Baltimore city,510,,,150702,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 1507.02, Baltimore city, Maryland",,,41471,1141,826,315
+G2405100150800,2014-2018,,,Maryland,24,Baltimore city,510,,,150800,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 1508, Baltimore city, Maryland",,,36853,2438,1862,576
+G2405100150900,2014-2018,,,Maryland,24,Baltimore city,510,,,150900,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 1509, Baltimore city, Maryland",,,54333,1649,1265,384
+G2405100151000,2014-2018,,,Maryland,24,Baltimore city,510,,,151000,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 1510, Baltimore city, Maryland",,,40366,2293,1721,572
+G2405100151100,2014-2018,,,Maryland,24,Baltimore city,510,,,151100,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 1511, Baltimore city, Maryland",,,51827,3097,2614,483
+G2405100151200,2014-2018,,,Maryland,24,Baltimore city,510,,,151200,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 1512, Baltimore city, Maryland",,,21363,2068,1639,429
+G2405100151300,2014-2018,,,Maryland,24,Baltimore city,510,,,151300,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 1513, Baltimore city, Maryland",,,29816,2131,1509,622
+G2405100160100,2014-2018,,,Maryland,24,Baltimore city,510,,,160100,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 1601, Baltimore city, Maryland",,,26557,1636,919,717
+G2405100160200,2014-2018,,,Maryland,24,Baltimore city,510,,,160200,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 1602, Baltimore city, Maryland",,,26792,1303,825,478
+G2405100160300,2014-2018,,,Maryland,24,Baltimore city,510,,,160300,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 1603, Baltimore city, Maryland",,,18093,820,392,428
+G2405100160400,2014-2018,,,Maryland,24,Baltimore city,510,,,160400,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 1604, Baltimore city, Maryland",,,26552,1711,670,1041
+G2405100160500,2014-2018,,,Maryland,24,Baltimore city,510,,,160500,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 1605, Baltimore city, Maryland",,,35705,1925,1478,447
+G2405100160600,2014-2018,,,Maryland,24,Baltimore city,510,,,160600,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 1606, Baltimore city, Maryland",,,40038,1772,1120,652
+G2405100160700,2014-2018,,,Maryland,24,Baltimore city,510,,,160700,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 1607, Baltimore city, Maryland",,,36346,2339,1506,833
+G2405100160801,2014-2018,,,Maryland,24,Baltimore city,510,,,160801,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 1608.01, Baltimore city, Maryland",,,43211,1407,1187,220
+G2405100160802,2014-2018,,,Maryland,24,Baltimore city,510,,,160802,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 1608.02, Baltimore city, Maryland",,,43464,1282,1049,233
+G2405100170100,2014-2018,,,Maryland,24,Baltimore city,510,,,170100,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 1701, Baltimore city, Maryland",,,30702,1032,926,106
+G2405100170200,2014-2018,,,Maryland,24,Baltimore city,510,,,170200,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 1702, Baltimore city, Maryland",,,13643,1793,1345,448
+G2405100170300,2014-2018,,,Maryland,24,Baltimore city,510,,,170300,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 1703, Baltimore city, Maryland",,,20880,1259,789,470
+G2405100180100,2014-2018,,,Maryland,24,Baltimore city,510,,,180100,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 1801, Baltimore city, Maryland",,,14583,1053,951,102
+G2405100180200,2014-2018,,,Maryland,24,Baltimore city,510,,,180200,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 1802, Baltimore city, Maryland",,,20938,593,365,228
+G2405100180300,2014-2018,,,Maryland,24,Baltimore city,510,,,180300,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 1803, Baltimore city, Maryland",,,37273,1123,772,351
+G2405100190100,2014-2018,,,Maryland,24,Baltimore city,510,,,190100,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 1901, Baltimore city, Maryland",,,21630,1259,808,451
+G2405100190200,2014-2018,,,Maryland,24,Baltimore city,510,,,190200,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 1902, Baltimore city, Maryland",,,32500,1139,698,441
+G2405100190300,2014-2018,,,Maryland,24,Baltimore city,510,,,190300,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 1903, Baltimore city, Maryland",,,23750,1393,818,575
+G2405100200100,2014-2018,,,Maryland,24,Baltimore city,510,,,200100,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2001, Baltimore city, Maryland",,,30875,951,604,347
+G2405100200200,2014-2018,,,Maryland,24,Baltimore city,510,,,200200,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2002, Baltimore city, Maryland",,,27923,1433,883,550
+G2405100200300,2014-2018,,,Maryland,24,Baltimore city,510,,,200300,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2003, Baltimore city, Maryland",,,23542,948,497,451
+G2405100200400,2014-2018,,,Maryland,24,Baltimore city,510,,,200400,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2004, Baltimore city, Maryland",,,30757,912,531,381
+G2405100200500,2014-2018,,,Maryland,24,Baltimore city,510,,,200500,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2005, Baltimore city, Maryland",,,34236,1515,959,556
+G2405100200600,2014-2018,,,Maryland,24,Baltimore city,510,,,200600,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2006, Baltimore city, Maryland",,,31991,1181,801,380
+G2405100200701,2014-2018,,,Maryland,24,Baltimore city,510,,,200701,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2007.01, Baltimore city, Maryland",,,36164,2117,1808,309
+G2405100200702,2014-2018,,,Maryland,24,Baltimore city,510,,,200702,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2007.02, Baltimore city, Maryland",,,42179,601,397,204
+G2405100200800,2014-2018,,,Maryland,24,Baltimore city,510,,,200800,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2008, Baltimore city, Maryland",,,40789,1048,790,258
+G2405100210100,2014-2018,,,Maryland,24,Baltimore city,510,,,210100,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2101, Baltimore city, Maryland",,,63558,1170,967,203
+G2405100210200,2014-2018,,,Maryland,24,Baltimore city,510,,,210200,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2102, Baltimore city, Maryland",,,41037,1727,1336,391
+G2405100220100,2014-2018,,,Maryland,24,Baltimore city,510,,,220100,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2201, Baltimore city, Maryland",,,75652,2352,2264,88
+G2405100230100,2014-2018,,,Maryland,24,Baltimore city,510,,,230100,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2301, Baltimore city, Maryland",,,71287,909,801,108
+G2405100230200,2014-2018,,,Maryland,24,Baltimore city,510,,,230200,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2302, Baltimore city, Maryland",,,109286,1081,954,127
+G2405100230300,2014-2018,,,Maryland,24,Baltimore city,510,,,230300,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2303, Baltimore city, Maryland",,,106806,766,730,36
+G2405100240100,2014-2018,,,Maryland,24,Baltimore city,510,,,240100,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2401, Baltimore city, Maryland",,,129508,1826,1613,213
+G2405100240200,2014-2018,,,Maryland,24,Baltimore city,510,,,240200,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2402, Baltimore city, Maryland",,,136913,1584,1425,159
+G2405100240300,2014-2018,,,Maryland,24,Baltimore city,510,,,240300,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2403, Baltimore city, Maryland",,,116406,1127,1037,90
+G2405100240400,2014-2018,,,Maryland,24,Baltimore city,510,,,240400,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2404, Baltimore city, Maryland",,,103250,1293,1139,154
+G2405100250101,2014-2018,,,Maryland,24,Baltimore city,510,,,250101,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2501.01, Baltimore city, Maryland",,,54092,1710,1613,97
+G2405100250102,2014-2018,,,Maryland,24,Baltimore city,510,,,250102,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2501.02, Baltimore city, Maryland",,,42922,1348,1231,117
+G2405100250103,2014-2018,,,Maryland,24,Baltimore city,510,,,250103,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2501.03, Baltimore city, Maryland",,,39412,1784,1554,230
+G2405100250203,2014-2018,,,Maryland,24,Baltimore city,510,,,250203,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2502.03, Baltimore city, Maryland",,,37639,843,724,119
+G2405100250204,2014-2018,,,Maryland,24,Baltimore city,510,,,250204,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2502.04, Baltimore city, Maryland",,,15567,1675,1484,191
+G2405100250205,2014-2018,,,Maryland,24,Baltimore city,510,,,250205,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2502.05, Baltimore city, Maryland",,,41023,1808,1476,332
+G2405100250206,2014-2018,,,Maryland,24,Baltimore city,510,,,250206,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2502.06, Baltimore city, Maryland",,,57333,1034,862,172
+G2405100250207,2014-2018,,,Maryland,24,Baltimore city,510,,,250207,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2502.07, Baltimore city, Maryland",,,34081,933,817,116
+G2405100250301,2014-2018,,,Maryland,24,Baltimore city,510,,,250301,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2503.01, Baltimore city, Maryland",,,23452,1060,818,242
+G2405100250303,2014-2018,,,Maryland,24,Baltimore city,510,,,250303,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2503.03, Baltimore city, Maryland",,,38750,962,872,90
+G2405100250401,2014-2018,,,Maryland,24,Baltimore city,510,,,250401,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2504.01, Baltimore city, Maryland",,,39747,1573,1157,416
+G2405100250402,2014-2018,,,Maryland,24,Baltimore city,510,,,250402,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2504.02, Baltimore city, Maryland",,,50526,2090,1536,554
+G2405100250500,2014-2018,,,Maryland,24,Baltimore city,510,,,250500,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2505, Baltimore city, Maryland",,,36684,2487,1670,817
+G2405100250600,2014-2018,,,Maryland,24,Baltimore city,510,,,250600,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2506, Baltimore city, Maryland",,,,0,0,0
+G2405100260101,2014-2018,,,Maryland,24,Baltimore city,510,,,260101,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2601.01, Baltimore city, Maryland",,,58466,2097,1851,246
+G2405100260102,2014-2018,,,Maryland,24,Baltimore city,510,,,260102,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2601.02, Baltimore city, Maryland",,,55931,1975,1613,362
+G2405100260201,2014-2018,,,Maryland,24,Baltimore city,510,,,260201,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2602.01, Baltimore city, Maryland",,,36283,2498,2307,191
+G2405100260202,2014-2018,,,Maryland,24,Baltimore city,510,,,260202,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2602.02, Baltimore city, Maryland",,,39283,2820,2336,484
+G2405100260203,2014-2018,,,Maryland,24,Baltimore city,510,,,260203,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2602.03, Baltimore city, Maryland",,,39063,1096,1029,67
+G2405100260301,2014-2018,,,Maryland,24,Baltimore city,510,,,260301,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2603.01, Baltimore city, Maryland",,,43951,1851,1573,278
+G2405100260302,2014-2018,,,Maryland,24,Baltimore city,510,,,260302,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2603.02, Baltimore city, Maryland",,,33920,2877,2532,345
+G2405100260303,2014-2018,,,Maryland,24,Baltimore city,510,,,260303,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2603.03, Baltimore city, Maryland",,,17125,468,416,52
+G2405100260401,2014-2018,,,Maryland,24,Baltimore city,510,,,260401,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2604.01, Baltimore city, Maryland",,,35750,1334,1283,51
+G2405100260402,2014-2018,,,Maryland,24,Baltimore city,510,,,260402,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2604.02, Baltimore city, Maryland",,,41113,1310,1227,83
+G2405100260403,2014-2018,,,Maryland,24,Baltimore city,510,,,260403,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2604.03, Baltimore city, Maryland",,,32143,784,698,86
+G2405100260404,2014-2018,,,Maryland,24,Baltimore city,510,,,260404,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2604.04, Baltimore city, Maryland",,,45143,759,602,157
+G2405100260501,2014-2018,,,Maryland,24,Baltimore city,510,,,260501,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2605.01, Baltimore city, Maryland",,,56038,2209,1851,358
+G2405100260604,2014-2018,,,Maryland,24,Baltimore city,510,,,260604,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2606.04, Baltimore city, Maryland",,,25563,646,512,134
+G2405100260605,2014-2018,,,Maryland,24,Baltimore city,510,,,260605,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2606.05, Baltimore city, Maryland",,,42052,1993,1708,285
+G2405100260700,2014-2018,,,Maryland,24,Baltimore city,510,,,260700,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2607, Baltimore city, Maryland",,,59479,1080,920,160
+G2405100260800,2014-2018,,,Maryland,24,Baltimore city,510,,,260800,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2608, Baltimore city, Maryland",,,41974,1108,1026,82
+G2405100260900,2014-2018,,,Maryland,24,Baltimore city,510,,,260900,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2609, Baltimore city, Maryland",,,104342,1839,1554,285
+G2405100261000,2014-2018,,,Maryland,24,Baltimore city,510,,,261000,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2610, Baltimore city, Maryland",,,51908,1334,999,335
+G2405100261100,2014-2018,,,Maryland,24,Baltimore city,510,,,261100,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2611, Baltimore city, Maryland",,,121000,1014,844,170
+G2405100270101,2014-2018,,,Maryland,24,Baltimore city,510,,,270101,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2701.01, Baltimore city, Maryland",,,73523,688,575,113
+G2405100270102,2014-2018,,,Maryland,24,Baltimore city,510,,,270102,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2701.02, Baltimore city, Maryland",,,65237,1547,1223,324
+G2405100270200,2014-2018,,,Maryland,24,Baltimore city,510,,,270200,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2702, Baltimore city, Maryland",,,74236,792,709,83
+G2405100270301,2014-2018,,,Maryland,24,Baltimore city,510,,,270301,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2703.01, Baltimore city, Maryland",,,65223,1282,1147,135
+G2405100270302,2014-2018,,,Maryland,24,Baltimore city,510,,,270302,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2703.02, Baltimore city, Maryland",,,73967,745,665,80
+G2405100270401,2014-2018,,,Maryland,24,Baltimore city,510,,,270401,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2704.01, Baltimore city, Maryland",,,65098,2224,2068,156
+G2405100270402,2014-2018,,,Maryland,24,Baltimore city,510,,,270402,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2704.02, Baltimore city, Maryland",,,79833,1386,1144,242
+G2405100270501,2014-2018,,,Maryland,24,Baltimore city,510,,,270501,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2705.01, Baltimore city, Maryland",,,61227,1823,1643,180
+G2405100270502,2014-2018,,,Maryland,24,Baltimore city,510,,,270502,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2705.02, Baltimore city, Maryland",,,69500,2035,1810,225
+G2405100270600,2014-2018,,,Maryland,24,Baltimore city,510,,,270600,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2706, Baltimore city, Maryland",,,59375,2001,1832,169
+G2405100270701,2014-2018,,,Maryland,24,Baltimore city,510,,,270701,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2707.01, Baltimore city, Maryland",,,36994,1296,1139,157
+G2405100270702,2014-2018,,,Maryland,24,Baltimore city,510,,,270702,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2707.02, Baltimore city, Maryland",,,53532,1102,902,200
+G2405100270703,2014-2018,,,Maryland,24,Baltimore city,510,,,270703,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2707.03, Baltimore city, Maryland",,,61199,1249,1103,146
+G2405100270801,2014-2018,,,Maryland,24,Baltimore city,510,,,270801,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2708.01, Baltimore city, Maryland",,,53614,1732,1560,172
+G2405100270802,2014-2018,,,Maryland,24,Baltimore city,510,,,270802,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2708.02, Baltimore city, Maryland",,,50354,2241,2172,69
+G2405100270803,2014-2018,,,Maryland,24,Baltimore city,510,,,270803,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2708.03, Baltimore city, Maryland",,,51510,3150,2929,221
+G2405100270804,2014-2018,,,Maryland,24,Baltimore city,510,,,270804,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2708.04, Baltimore city, Maryland",,,56903,1563,1444,119
+G2405100270805,2014-2018,,,Maryland,24,Baltimore city,510,,,270805,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2708.05, Baltimore city, Maryland",,,54139,2253,1834,419
+G2405100270901,2014-2018,,,Maryland,24,Baltimore city,510,,,270901,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2709.01, Baltimore city, Maryland",,,52803,1776,1696,80
+G2405100270902,2014-2018,,,Maryland,24,Baltimore city,510,,,270902,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2709.02, Baltimore city, Maryland",,,57356,1534,1425,109
+G2405100270903,2014-2018,,,Maryland,24,Baltimore city,510,,,270903,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2709.03, Baltimore city, Maryland",,,48611,1460,1218,242
+G2405100271001,2014-2018,,,Maryland,24,Baltimore city,510,,,271001,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2710.01, Baltimore city, Maryland",,,41192,1076,829,247
+G2405100271002,2014-2018,,,Maryland,24,Baltimore city,510,,,271002,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2710.02, Baltimore city, Maryland",,,37232,1783,1514,269
+G2405100271101,2014-2018,,,Maryland,24,Baltimore city,510,,,271101,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2711.01, Baltimore city, Maryland",,,55820,950,877,73
+G2405100271102,2014-2018,,,Maryland,24,Baltimore city,510,,,271102,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2711.02, Baltimore city, Maryland",,,213200,519,442,77
+G2405100271200,2014-2018,,,Maryland,24,Baltimore city,510,,,271200,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2712, Baltimore city, Maryland",,,148788,2364,2198,166
+G2405100271300,2014-2018,,,Maryland,24,Baltimore city,510,,,271300,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2713, Baltimore city, Maryland",,,154432,1154,1061,93
+G2405100271400,2014-2018,,,Maryland,24,Baltimore city,510,,,271400,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2714, Baltimore city, Maryland",,,122344,1551,1424,127
+G2405100271501,2014-2018,,,Maryland,24,Baltimore city,510,,,271501,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2715.01, Baltimore city, Maryland",,,100167,1892,1748,144
+G2405100271503,2014-2018,,,Maryland,24,Baltimore city,510,,,271503,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2715.03, Baltimore city, Maryland",,,71875,695,644,51
+G2405100271600,2014-2018,,,Maryland,24,Baltimore city,510,,,271600,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2716, Baltimore city, Maryland",,,28133,1866,1506,360
+G2405100271700,2014-2018,,,Maryland,24,Baltimore city,510,,,271700,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2717, Baltimore city, Maryland",,,41891,2503,1749,754
+G2405100271801,2014-2018,,,Maryland,24,Baltimore city,510,,,271801,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2718.01, Baltimore city, Maryland",,,30462,1642,1232,410
+G2405100271802,2014-2018,,,Maryland,24,Baltimore city,510,,,271802,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2718.02, Baltimore city, Maryland",,,29495,1345,913,432
+G2405100271900,2014-2018,,,Maryland,24,Baltimore city,510,,,271900,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2719, Baltimore city, Maryland",,,51736,1657,1459,198
+G2405100272003,2014-2018,,,Maryland,24,Baltimore city,510,,,272003,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2720.03, Baltimore city, Maryland",,,66250,2131,2041,90
+G2405100272004,2014-2018,,,Maryland,24,Baltimore city,510,,,272004,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2720.04, Baltimore city, Maryland",,,42800,1916,1842,74
+G2405100272005,2014-2018,,,Maryland,24,Baltimore city,510,,,272005,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2720.05, Baltimore city, Maryland",,,59500,1356,1252,104
+G2405100272006,2014-2018,,,Maryland,24,Baltimore city,510,,,272006,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2720.06, Baltimore city, Maryland",,,32500,1876,1622,254
+G2405100272007,2014-2018,,,Maryland,24,Baltimore city,510,,,272007,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2720.07, Baltimore city, Maryland",,,39777,1991,1775,216
+G2405100280101,2014-2018,,,Maryland,24,Baltimore city,510,,,280101,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2801.01, Baltimore city, Maryland",,,47440,1452,1303,149
+G2405100280102,2014-2018,,,Maryland,24,Baltimore city,510,,,280102,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2801.02, Baltimore city, Maryland",,,55243,2834,2423,411
+G2405100280200,2014-2018,,,Maryland,24,Baltimore city,510,,,280200,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2802, Baltimore city, Maryland",,,57097,2038,1652,386
+G2405100280301,2014-2018,,,Maryland,24,Baltimore city,510,,,280301,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2803.01, Baltimore city, Maryland",,,37163,2178,1884,294
+G2405100280302,2014-2018,,,Maryland,24,Baltimore city,510,,,280302,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2803.02, Baltimore city, Maryland",,,43438,1118,999,119
+G2405100280401,2014-2018,,,Maryland,24,Baltimore city,510,,,280401,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2804.01, Baltimore city, Maryland",,,46139,1650,1519,131
+G2405100280402,2014-2018,,,Maryland,24,Baltimore city,510,,,280402,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2804.02, Baltimore city, Maryland",,,48276,700,604,96
+G2405100280403,2014-2018,,,Maryland,24,Baltimore city,510,,,280403,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2804.03, Baltimore city, Maryland",,,62945,2338,2140,198
+G2405100280404,2014-2018,,,Maryland,24,Baltimore city,510,,,280404,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2804.04, Baltimore city, Maryland",,,37292,1214,1045,169
+G2405100280500,2014-2018,,,Maryland,24,Baltimore city,510,,,280500,,,,,,,,,,,,,,,,,,,,,,,,"Census Tract 2805, Baltimore city, Maryland",,,13644,1068,979,89
